@@ -1,0 +1,2 @@
+# logRotate
+Logs generator
